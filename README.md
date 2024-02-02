@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## 🚀 About Me
 Hi, I'm Rafał, a beginner front-end developer, who loves to create pixel perfect websites.
